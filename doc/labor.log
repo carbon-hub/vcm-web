@@ -1,0 +1,16 @@
+client
+======
+npx create-react-app . --template redux
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm i ract-router-dom
+
+server
+======
+create index.js
+npm init -y
+npm i express mongoose dotenv nodemon
+
+
+

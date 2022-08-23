@@ -1,0 +1,5 @@
+PORT=5000
+MONGO_URL=mongodb+srv://<user>:<password>@cluster1.tlnqpdl.mongodb.net/inventory_db?retryWrites=true&w=majority
+PASSWORD_SECRET_PHRASE=<pwd_phrase>
+JWT_SECRET_PHRASE=<jwt_phrase>
+STRIPE_SECRET_KEY_MY=<stripe_secret>
